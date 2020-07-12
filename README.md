@@ -1,6 +1,6 @@
 #### George Pagonoudis ⚡
 
-![George Pagonoudis](./images/bio.png)
+![George Pagonoudis](https://raw.githubusercontent.com/Giorgospago/Giorgospago/master/images/bio.png)
 
 <!--
 - 🔭 I’m currently working on ...
